@@ -1,0 +1,23 @@
+{
+  "name": "Crypto Beetle #3",
+  "description": "ChenGang's Crypto Beetle collection",
+  "image": "https://ipfs.io/ipfs/QmW1cofUsKSPpm8hmECeTJi5jayrffXNGGunpUyDLoFvFh",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": "1"
+    },{
+      "trait_type": "Background",
+      "value": "space"
+    },{
+      "trait_type": "Dots",
+      "value": "6"
+    },{
+      "trait_type": "Antenna",
+      "value": "regular"
+    },{
+      "trait_type": "Sun Glasses",
+      "value": true
+    }
+  ]
+}
